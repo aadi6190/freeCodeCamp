@@ -115,7 +115,7 @@ function toParams(
     params: {
       superblock,
       blockOrId: block,
-      dashedName,
+      dashName,
       id
     }
   };
